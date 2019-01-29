@@ -1,0 +1,2 @@
+# Parking-lot-predection
+DJANGO, REACT.JS WITH REDUX FOR MACHINE LEARNING 
